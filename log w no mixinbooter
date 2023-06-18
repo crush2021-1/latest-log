@@ -1,0 +1,117 @@
+[18.06 15:35:14] [Multicraft] Starting server!
+[18.06 15:35:14] [Multicraft] Loaded config for "Default"
+[18.06 15:35:15] [Multicraft] Updating eula.txt file
+[18.06 15:35:16] [Server] [Log4jPatch] [INFO] Patching org/apache/logging/log4j/core/lookup/JndiLookup
+[18.06 15:35:16] [Server] [Log4jPatch] [INFO] Patching org/apache/logging/log4j/core/pattern/MessagePatternConverter
+[18.06 15:35:16] [Server] [Log4jPatch] [WARN] Unable to find noLookups:Z field in org/apache/logging/log4j/core/pattern/MessagePatternConverter
+[18.06 15:35:16] [Server] 2023-06-15:35:16,823 main WARN Disabling terminal, you're running in an unsupported environment.
+[18.06 15:35:16] [Server] [main/INFO] [LaunchWrapper]: Loading tweak class name net.minecraftforge.fml.common.launcher.FMLServerTweaker
+[18.06 15:35:16] [Server] [main/INFO] [LaunchWrapper]: Using primary tweak class name net.minecraftforge.fml.common.launcher.FMLServerTweaker
+[18.06 15:35:16] [Server] [main/INFO] [LaunchWrapper]: Calling tweak class net.minecraftforge.fml.common.launcher.FMLServerTweaker
+[18.06 15:35:17] [Server] [main/INFO] [FML]: Forge Mod Loader version 14.23.5.2860 for Minecraft 1.12.2 loading
+[18.06 15:35:17] [Server] [main/INFO] [FML]: Java is Java HotSpot(TM) 64-Bit Server VM, version 1.8.0_311, running on Linux:amd64:4.15.0-187-generic, installed at /usr/lib/jvm/jre1.8.0_311
+[18.06 15:35:17] [Server] [main/INFO] [FML]: Searching /./mods for mods
+[18.06 15:35:17] [Server] [main/INFO] [FML]: Searching /./mods/1.12.2 for mods
+[18.06 15:35:17] [Server] [main/INFO] [FML]: Loading tweaker org.spongepowered.asm.launch.MixinTweaker from [___MixinCompat-0.8___].jar
+[18.06 15:35:17] [Server] [main/INFO] [FML]: Loading tweaker org.spongepowered.asm.launch.MixinTweaker from _aspongeforge-1.12.2-2768-7.1.6-RC3616.jar (1).jar
+[18.06 15:35:17] [Server] [main/WARN] [FML]: Found FMLCorePluginContainsFMLMod marker in appliedenergistics2-rv6-stable-7-extended_life-v0.55.12.jar. This is not recommended, @Mods should be in a separate jar from the coremod.
+[18.06 15:35:17] [Server] [main/WARN] [FML]: The coremod AE2ELCore (appeng.core.AE2ELCore) is not signed!
+[18.06 15:35:17] [Server] [main/WARN] [FML]: Found FMLCorePluginContainsFMLMod marker in biggerpacketsplz-since1.8-1.2.jar. This is not recommended, @Mods should be in a separate jar from the coremod.
+[18.06 15:35:17] [Server] [main/WARN] [FML]: The coremod net.elnounch.mc.biggerpacketsplz.BiggerPacketsPlzCoreMod does not have a MCVersion annotation, it may cause issues with this version of Minecraft
+[18.06 15:35:17] [Server] [main/INFO] [FML]: Loading tweaker codechicken.asm.internal.Tweaker from ChickenASM-1.12-1.0.2.7.jar
+[18.06 15:35:17] [Server] [main/WARN] [FML]: Found FMLCorePluginContainsFMLMod marker in Chocolate_Quest_Repoured-1.12.2-2.6.12B.jar. This is not recommended, @Mods should be in a separate jar from the coremod.
+[18.06 15:35:17] [Server] [main/WARN] [FML]: The coremod CQRPlugin (team.cqr.cqrepoured.asm.CQRPlugin) is not signed!
+[18.06 15:35:17] [Server] [main/WARN] [FML]: Found FMLCorePluginContainsFMLMod marker in CreativeCore_v1.10.70_mc1.12.2.jar. This is not recommended, @Mods should be in a separate jar from the coremod.
+[18.06 15:35:17] [Server] [main/WARN] [FML]: The coremod com.creativemd.creativecore.core.CreativePatchingLoader does not have a MCVersion annotation, it may cause issues with this version of Minecraft
+[18.06 15:35:17] [Server] [main/WARN] [FML]: The coremod CreativePatchingLoader (com.creativemd.creativecore.core.CreativePatchingLoader) is not signed!
+[18.06 15:35:17] [Server] [main/WARN] [FML]: Found FMLCorePluginContainsFMLMod marker in CTM-MC1.12.2-1.0.2.31.jar. This is not recommended, @Mods should be in a separate jar from the coremod.
+[18.06 15:35:17] [Server] [main/WARN] [FML]: The coremod team.chisel.ctm.client.asm.CTMCorePlugin does not have a MCVersion annotation, it may cause issues with this version of Minecraft
+[18.06 15:35:17] [Server] [main/WARN] [FML]: The coremod CTMCorePlugin (team.chisel.ctm.client.asm.CTMCorePlugin) is not signed!
+[18.06 15:35:17] [Server] [main/INFO] [FML]: Loading tweaker org.spongepowered.asm.launch.MixinTweaker from DupeFixProject-1.12.2-3.1.6.jar
+[18.06 15:35:17] [Server] [main/WARN] [FML]: Found FMLCorePluginContainsFMLMod marker in Fluidlogged-API-v2.1.2-mc1.12.2.jar. This is not recommended, @Mods should be in a separate jar from the coremod.
+[18.06 15:35:17] [Server] [main/WARN] [FML]: The coremod Fluidlogged API Plugin (git.jbredwards.fluidlogged_api.mod.asm.ASMHandler) is not signed!
+[18.06 15:35:17] [Server] [main/WARN] [FML]: Found FMLCorePluginContainsFMLMod marker in Forgelin-1.8.4.jar. This is not recommended, @Mods should be in a separate jar from the coremod.
+[18.06 15:35:17] [Server] [main/WARN] [FML]: The coremod net.shadowfacts.forgelin.preloader.ForgelinPlugin does not have a MCVersion annotation, it may cause issues with this version of Minecraft
+[18.06 15:35:17] [Server] [main/WARN] [FML]: The coremod ForgelinPlugin (net.shadowfacts.forgelin.preloader.ForgelinPlugin) is not signed!
+[18.06 15:35:17] [Server] [main/WARN] [FML]: Found FMLCorePluginContainsFMLMod marker in future-mc-0.2.11.jar. This is not recommended, @Mods should be in a separate jar from the coremod.
+[18.06 15:35:17] [Server] [main/WARN] [FML]: The coremod FutureMC (thedarkcolour.futuremc.asm.CoreLoader) is not signed!
+[18.06 15:35:17] [Server] [main/WARN] [FML]: Found FMLCorePluginContainsFMLMod marker in Galacticraft-1.12.2-4.0.5.jar. This is not recommended, @Mods should be in a separate jar from the coremod.
+[18.06 15:35:17] [Server] [main/WARN] [FML]: The coremod MicdoodlePlugin (micdoodle8.mods.miccore.MicdoodlePlugin) is not signed!
+[18.06 15:35:17] [Server] [main/WARN] [FML]: Found FMLCorePluginContainsFMLMod marker in LittleTiles_v1.5.68_mc1.12.2.jar. This is not recommended, @Mods should be in a separate jar from the coremod.
+[18.06 15:35:17] [Server] [main/WARN] [FML]: The coremod com.creativemd.littletiles.LittlePatchingLoader does not have a MCVersion annotation, it may cause issues with this version of Minecraft
+[18.06 15:35:17] [Server] [main/WARN] [FML]: The coremod LittlePatchingLoader (com.creativemd.littletiles.LittlePatchingLoader) is not signed!
+[18.06 15:35:17] [Server] [main/INFO] [FML]: Loading tweaker org.spongepowered.asm.launch.MixinTweaker from normalasm-5.6.jar
+[18.06 15:35:17] [Server] [main/WARN] [FML]: Found FMLCorePluginContainsFMLMod marker in OpenModsLib-1.12.2-0.12.2.jar. This is not recommended, @Mods should be in a separate jar from the coremod.
+[18.06 15:35:17] [Server] [main/WARN] [FML]: The coremod openmods.core.OpenModsCorePlugin does not have a MCVersion annotation, it may cause issues with this version of Minecraft
+[18.06 15:35:17] [Server] [main/WARN] [FML]: Found FMLCorePluginContainsFMLMod marker in Quark-r1.6-179.jar. This is not recommended, @Mods should be in a separate jar from the coremod.
+[18.06 15:35:17] [Server] [main/WARN] [FML]: The coremod Quark Plugin (vazkii.quark.base.asm.LoadingPlugin) is not signed!
+[18.06 15:35:17] [Server] [main/WARN] [FML]: The coremod com.therandomlabs.randompatches.core.RPCore does not have a MCVersion annotation, it may cause issues with this version of Minecraft
+[18.06 15:35:17] [Server] [main/WARN] [FML]: Found FMLCorePluginContainsFMLMod marker in ReachFix-1.12.2-1.0.8.jar. This is not recommended, @Mods should be in a separate jar from the coremod.
+[18.06 15:35:17] [Server] [main/WARN] [FML]: The coremod ReachFixPlugin (meldexun.reachfix.asm.ReachFixPlugin) is not signed!
+[18.06 15:35:17] [Server] [main/INFO] [FML]: Loading tweaker org.spongepowered.asm.launch.MixinTweaker from RoughlyEnoughIDs-2.0.5.jar
+[18.06 15:35:17] [Server] [main/WARN] [FML]: Found FMLCorePluginContainsFMLMod marker in UniDict-1.12.2-3.0.10.jar. This is not recommended, @Mods should be in a separate jar from the coremod.
+[18.06 15:35:17] [Server] [main/WARN] [FML]: The coremod UniDictCoreMod (wanion.unidict.core.UniDictCoreMod) is not signed!
+[18.06 15:35:17] [Server] [main/WARN] [FML]: Found FMLCorePluginContainsFMLMod marker in UniversalTweaks-1.12.2-1.5.0.jar. This is not recommended, @Mods should be in a separate jar from the coremod.
+[18.06 15:35:17] [Server] [main/ERROR] [LaunchWrapper]: Unable to launch
+[18.06 15:35:17] [Server] java.lang.RuntimeExceptionAn error occurred trying to configure the Minecraft home at /. for Forge Mod Loader
+[18.06 15:35:17] [Server] 	at net.minecraftforge.fml.relauncher.FMLLaunchHandler.setupHome(FMLLaunchHandler.java:111) ~[Technic_TekxitPi_1.0.951.jar:?]
+[18.06 15:35:17] [Server] 	at net.minecraftforge.fml.relauncher.FMLLaunchHandler.setupServer(FMLLaunchHandler.java:87) ~[Technic_TekxitPi_1.0.951.jar:?]
+[18.06 15:35:17] [Server] 	at net.minecraftforge.fml.relauncher.FMLLaunchHandler.configureForServerLaunch(FMLLaunchHandler.java:47) ~[Technic_TekxitPi_1.0.951.jar:?]
+[18.06 15:35:17] [Server] 	at net.minecraftforge.fml.common.launcher.FMLServerTweaker.injectIntoClassLoader(FMLServerTweaker.java:62) ~[Technic_TekxitPi_1.0.951.jar:?]
+[18.06 15:35:17] [Server] 	at net.minecraft.launchwrapper.Launch.launch(Launch.java:115) [launchwrapper-1.12.jar:?]
+[18.06 15:35:17] [Server] 	at net.minecraft.launchwrapper.Launch.main(Launch.java:28) [launchwrapper-1.12.jar:?]
+[18.06 15:35:17] [Server] 	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method) ~[?:1.8.0_311]
+[18.06 15:35:17] [Server] 	at sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62) ~[?:1.8.0_311]
+[18.06 15:35:17] [Server] 	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43) ~[?:1.8.0_311]
+[18.06 15:35:17] [Server] 	at java.lang.reflect.Method.invoke(Method.java:498) ~[?:1.8.0_311]
+[18.06 15:35:17] [Server] 	at net.minecraftforge.fml.relauncher.ServerLaunchWrapper.run(ServerLaunchWrapper.java:70) [Technic_TekxitPi_1.0.951.jar:?]
+[18.06 15:35:17] [Server] 	at net.minecraftforge.fml.relauncher.ServerLaunchWrapper.main(ServerLaunchWrapper.java:34) [Technic_TekxitPi_1.0.951.jar:?]
+[18.06 15:35:17] [Server] Caused byjava.lang.NoClassDefFoundError: zone/rong/mixinbooter/IEarlyMixinLoader
+[18.06 15:35:17] [Server] 	at java.lang.ClassLoader.defineClass1(Native Method) ~[?:1.8.0_311]
+[18.06 15:35:17] [Server] 	at java.lang.ClassLoader.defineClass(ClassLoader.java:756) ~[?:1.8.0_311]
+[18.06 15:35:17] [Server] 	at java.security.SecureClassLoader.defineClass(SecureClassLoader.java:142) ~[?:1.8.0_311]
+[18.06 15:35:17] [Server] 	at java.net.URLClassLoader.defineClass(URLClassLoader.java:473) ~[?:1.8.0_311]
+[18.06 15:35:17] [Server] 	at java.net.URLClassLoader.access$100(URLClassLoader.java:74) ~[?:1.8.0_311]
+[18.06 15:35:17] [Server] 	at java.net.URLClassLoader$1.run(URLClassLoader.java:369) ~[?:1.8.0_311]
+[18.06 15:35:17] [Server] 	at java.net.URLClassLoader$1.run(URLClassLoader.java:363) ~[?:1.8.0_311]
+[18.06 15:35:17] [Server] 	at java.security.AccessController.doPrivileged(Native Method) ~[?:1.8.0_311]
+[18.06 15:35:17] [Server] 	at java.net.URLClassLoader.findClass(URLClassLoader.java:362) ~[?:1.8.0_311]
+[18.06 15:35:17] [Server] 	at net.minecraft.launchwrapper.LaunchClassLoader.findClass(LaunchClassLoader.java:117) ~[launchwrapper-1.12.jar:?]
+[18.06 15:35:17] [Server] 	at java.lang.ClassLoader.loadClass(ClassLoader.java:418) ~[?:1.8.0_311]
+[18.06 15:35:17] [Server] 	at java.lang.ClassLoader.loadClass(ClassLoader.java:351) ~[?:1.8.0_311]
+[18.06 15:35:17] [Server] 	at java.lang.Class.forName0(Native Method) ~[?:1.8.0_311]
+[18.06 15:35:17] [Server] 	at java.lang.Class.forName(Class.java:348) ~[?:1.8.0_311]
+[18.06 15:35:17] [Server] 	at net.minecraftforge.fml.relauncher.CoreModManager.loadCoreMod(CoreModManager.java:527) ~[Technic_TekxitPi_1.0.951.jar:?]
+[18.06 15:35:17] [Server] 	at net.minecraftforge.fml.relauncher.CoreModManager.discoverCoreMods(CoreModManager.java:451) ~[Technic_TekxitPi_1.0.951.jar:?]
+[18.06 15:35:17] [Server] 	at net.minecraftforge.fml.relauncher.CoreModManager.handleLaunch(CoreModManager.java:265) ~[Technic_TekxitPi_1.0.951.jar:?]
+[18.06 15:35:17] [Server] 	at net.minecraftforge.fml.relauncher.FMLLaunchHandler.setupHome(FMLLaunchHandler.java:107) ~[Technic_TekxitPi_1.0.951.jar:?]
+[18.06 15:35:17] [Server] 	... more
+[18.06 15:35:17] [Server] Caused byjava.lang.ClassNotFoundException: zone.rong.mixinbooter.IEarlyMixinLoader
+[18.06 15:35:17] [Server] 	at net.minecraft.launchwrapper.LaunchClassLoader.findClass(LaunchClassLoader.java:191) ~[launchwrapper-1.12.jar:?]
+[18.06 15:35:17] [Server] 	at java.lang.ClassLoader.loadClass(ClassLoader.java:418) ~[?:1.8.0_311]
+[18.06 15:35:17] [Server] 	at java.lang.ClassLoader.loadClass(ClassLoader.java:351) ~[?:1.8.0_311]
+[18.06 15:35:17] [Server] 	at java.lang.ClassLoader.defineClass1(Native Method) ~[?:1.8.0_311]
+[18.06 15:35:17] [Server] 	at java.lang.ClassLoader.defineClass(ClassLoader.java:756) ~[?:1.8.0_311]
+[18.06 15:35:17] [Server] 	at java.security.SecureClassLoader.defineClass(SecureClassLoader.java:142) ~[?:1.8.0_311]
+[18.06 15:35:17] [Server] 	at java.net.URLClassLoader.defineClass(URLClassLoader.java:473) ~[?:1.8.0_311]
+[18.06 15:35:17] [Server] 	at java.net.URLClassLoader.access$100(URLClassLoader.java:74) ~[?:1.8.0_311]
+[18.06 15:35:17] [Server] 	at java.net.URLClassLoader$1.run(URLClassLoader.java:369) ~[?:1.8.0_311]
+[18.06 15:35:17] [Server] 	at java.net.URLClassLoader$1.run(URLClassLoader.java:363) ~[?:1.8.0_311]
+[18.06 15:35:17] [Server] 	at java.security.AccessController.doPrivileged(Native Method) ~[?:1.8.0_311]
+[18.06 15:35:17] [Server] 	at java.net.URLClassLoader.findClass(URLClassLoader.java:362) ~[?:1.8.0_311]
+[18.06 15:35:17] [Server] 	at net.minecraft.launchwrapper.LaunchClassLoader.findClass(LaunchClassLoader.java:117) ~[launchwrapper-1.12.jar:?]
+[18.06 15:35:17] [Server] 	at java.lang.ClassLoader.loadClass(ClassLoader.java:418) ~[?:1.8.0_311]
+[18.06 15:35:17] [Server] 	at java.lang.ClassLoader.loadClass(ClassLoader.java:351) ~[?:1.8.0_311]
+[18.06 15:35:17] [Server] 	at java.lang.Class.forName0(Native Method) ~[?:1.8.0_311]
+[18.06 15:35:17] [Server] 	at java.lang.Class.forName(Class.java:348) ~[?:1.8.0_311]
+[18.06 15:35:17] [Server] 	at net.minecraftforge.fml.relauncher.CoreModManager.loadCoreMod(CoreModManager.java:527) ~[Technic_TekxitPi_1.0.951.jar:?]
+[18.06 15:35:17] [Server] 	at net.minecraftforge.fml.relauncher.CoreModManager.discoverCoreMods(CoreModManager.java:451) ~[Technic_TekxitPi_1.0.951.jar:?]
+[18.06 15:35:17] [Server] 	at net.minecraftforge.fml.relauncher.CoreModManager.handleLaunch(CoreModManager.java:265) ~[Technic_TekxitPi_1.0.951.jar:?]
+[18.06 15:35:17] [Server] 	at net.minecraftforge.fml.relauncher.FMLLaunchHandler.setupHome(FMLLaunchHandler.java:107) ~[Technic_TekxitPi_1.0.951.jar:?]
+[18.06 15:35:17] [Server] 	... more
+[18.06 15:35:17] [Server] Caused byjava.lang.NullPointerException
+[18.06 15:35:17] [Multicraft] Server shut down (starting)
+[18.06 15:35:17] [Multicraft] Maximum number of automatic restarts reached (3 within 600 seconds). Not restarting crashed server
+[18.06 15:35:17] [Multicraft] Stopping server!
+[18.06 15:35:20] [Multicraft] Looks like a crash, check the server console. Return value: 1
+[18.06 15:35:20] [Multicraft] Server stopped
